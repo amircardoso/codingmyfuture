@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+### Coding My Future
 
-You can use the [editor on GitHub](https://github.com/amircardoso/codingmyfuture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hi, I'm Amir TJ Cardoso! :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/amircardoso)](https://www.github.com/amircardoso)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-cardoso/)](https://www.linkedin.com/in/amir-cardoso/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me
+I'm a {student} learning about Open Source, Front-end and agile methodologies.
+
+- [Website](https://github.com/amircardoso/codingmyfuture/) 💻 - Working on it.
+
 
 ```markdown
 Syntax highlighted code block
